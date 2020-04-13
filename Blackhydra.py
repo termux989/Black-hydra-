@@ -202,3 +202,4 @@ else:
 	print "\n[!] ERROR : Wrong Input"
 	time.sleep(1)
 	restart_program()
+        restart_program()
